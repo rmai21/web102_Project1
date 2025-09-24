@@ -1,0 +1,31 @@
+.event-card {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  text-align: left;
+  transition: transform 0.2s ease-in-out;
+
+  /* New styles for consistent sizing */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* spread out content */
+  height: 250px;   /* fixed height */
+  width: 100%;     /* takes full grid width */
+  max-width: 300px; /* keeps cards uniform */
+}
+
+.event-card:hover {
+  transform: translateY(-5px);
+}
+
+.event-card h2 {
+  margin: 0 0 10px;
+  color: #34495e;
+  font-size: 1.2rem;
+}
+
+.event-card p {
+  margin: 5px 0;
+  font-size: 0.9rem;
+}

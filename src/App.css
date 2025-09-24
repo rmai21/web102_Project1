@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f5f7fa;
+  display: flex;
+  justify-content: center;   /* center app horizontally */
+  align-items: flex-start;   /* keep content at top */
+  min-height: 100vh;
+}
+
+.app {
+  width: 100%;
+  max-width: 1200px;   /* keeps content from stretching too wide */
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+.events-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 80px;              /* ⬅️ adds space between cards */
+  justify-items: center;  /* center cards in their grid cell */
+  padding: 10px;          /* ⬅️ adds space around the whole grid */
+}

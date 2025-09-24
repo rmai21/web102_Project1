@@ -1,21 +1,21 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Tech Community Events Board
 
-Submitted by: **Your Name Here**
+Submitted by: Rajvi Maisuria
 
-This web app: **insert description**
+This web app: List of events that happen in the tech community
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [ ] Header/title describing the theme is displayed
-- [ ] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [ ] There are at least 10 cards displayed 
-  - [ ] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [ ] Each card should include some information about the event or resource
+- [X] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [X] Header/title describing the theme is displayed
+- [X] **At least 10 unique events or resources are displayed in a responsive card format**
+  - [X] There are at least 10 cards displayed 
+  - [X] The cards should be displayed in an organized format (ex. a grid, or in one line)
+  - [X] Each card should include some information about the event or resource
 
 
 The following **optional** features are implemented:
@@ -26,17 +26,13 @@ The following **optional** features are implemented:
   - [ ] Web app is shown in a mobile format
   - [ ] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. 
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -44,12 +40,11 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Styling to get the webpage to look proper. Displaying the event cards easier. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Rajvi Maisuria]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
